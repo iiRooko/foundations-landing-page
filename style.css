@@ -30,8 +30,14 @@ body {
     background-color: #1F2937;
 }
 
+.headleft {
+    display: flex;
+    align-items: center;
+}
+
 .headright {
     display: flex;
+    gap: 20px;
 }
 
 .header img {
