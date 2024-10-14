@@ -91,6 +91,12 @@ button {
     align-content: center;
 }
 
+.body2 h3 {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
 .body2 img {
     display: flex;
     align-content: center;
