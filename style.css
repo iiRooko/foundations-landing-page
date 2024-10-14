@@ -50,6 +50,12 @@ body {
     max-width: 300px;
 }
 
+.body1left h2 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
 .body1right {
 
 }
