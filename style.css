@@ -15,6 +15,23 @@ a {
     text-decoration: none;
 }
 
+body {
+    display: flex;
+    flex-direction: column;
+}
+
 .header {
     display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 3px solid brown;
+}
+
+.footright {
+    display: flex;
+}
+
+.header img {
+    border: 3px solid green;
+    max-width: 100px;
 }
