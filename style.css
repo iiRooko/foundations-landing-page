@@ -22,6 +22,11 @@ body {
     font-family: "Roboto", sans-serif;
 }
 
+button {
+    background-color: #3882F6;
+    color: white;
+}
+
 .header {
     display: flex;
     align-items: center;
@@ -105,6 +110,7 @@ body {
 .body4 {
     display: flex;
     justify-content: center;
+    background-color: #3882F6;
 }
 
 .body4 p, .body4 div {
