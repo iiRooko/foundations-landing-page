@@ -129,6 +129,7 @@ button {
 .body4 {
     display: flex;
     justify-content: center;
+    color: #F9FAF8;
     background-color: #3882F6;
 }
 
@@ -137,10 +138,12 @@ button {
 }
 
 .body4 button {
-    border: 2px solid white;
+    border: 2px solid #F9FAF8;
 }
 
 .footer {
     display: flex;
     justify-content: center;
+    background-color: #1F2937;
+    color: #F9FAF8;
 }
