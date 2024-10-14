@@ -78,3 +78,21 @@ body {
 .body3 div {
     align-items: flex-end;
 }
+
+.body4 {
+    display: flex;
+    justify-content: center;
+}
+
+.body4 p, .body4 div {
+    
+}
+
+.body4 button {
+    
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+}
