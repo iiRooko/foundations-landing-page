@@ -26,6 +26,7 @@ body {
     align-items: center;
     justify-content: space-between;
     border: 3px solid brown;
+    background-color: #1F2937;
 }
 
 .headright {
@@ -41,6 +42,7 @@ body {
     display: flex;
     justify-content: space-between;
     border: 3px solid green;
+    background-color: #1F2937;
 }
 
 .body1left {
