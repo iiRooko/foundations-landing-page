@@ -3,10 +3,6 @@
     margin: 0;
 }
 
-img {
-    max-width: 200px;
-}
-
 ul {
     list-style: none;
 }
@@ -63,11 +59,14 @@ button {
     justify-content: space-between;
     border: 3px solid green;
     background-color: #1F2937;
+    flex: 1 1 auto;
 }
 
 .body1left {
     flex-wrap: wrap;
     max-width: 300px;
+    margin-left: 250px;
+    padding: 30px;
 }
 
 .body1left h2 {
@@ -82,7 +81,12 @@ button {
 }
 
 .body1right {
+    margin-right: 250px;
+    display: flex;
+}
 
+.body1right img {
+    max-width: 200px;
 }
 
 .body2 {
@@ -106,6 +110,7 @@ button {
 .body2 img {
     display: flex;
     align-content: center;
+    max-width: 200px;
 }
 
 .body3 {
