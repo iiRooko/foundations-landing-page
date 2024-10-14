@@ -107,6 +107,14 @@ button {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: #E5E7EB;
+}
+
+.body3 p {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
 }
 
 .body3 div {
