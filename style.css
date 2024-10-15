@@ -130,10 +130,12 @@ button {
 .body4 {
     margin: 30px 200px;
     min-width: 300px;
+    min-height: 200px;
     color: #F9FAF8;
     background-color: #3882F6;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
 }
 
 .body4left {
@@ -143,12 +145,15 @@ button {
 .body4 button {
     border: 2px solid #F9FAF8;
     margin: 3px 10px;
+    max-width: 200px;
+    max-height: 50px;
 }
 
 .footer {
     display: flex;
     justify-content: center;
-    margin-bottom: auto;
+    align-items: center;
     background-color: #1F2937;
+    min-height: 100px;
     color: #F9FAF8;
 }
