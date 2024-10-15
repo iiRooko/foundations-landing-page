@@ -128,7 +128,7 @@ button {
 }
 
 .body4 {
-    margin: 30px 200px;
+    margin: 30px 250px;
     min-width: 300px;
     min-height: 200px;
     color: #F9FAF8;
@@ -138,8 +138,9 @@ button {
     align-items: center;
 }
 
-.body4left {
-
+.body4left p {
+    font-size: 24px;
+    font-weight: bold
 }
 
 .body4 button {
@@ -147,6 +148,7 @@ button {
     margin: 3px 10px;
     max-width: 200px;
     max-height: 50px;
+    font-weight: bold;
 }
 
 .footer {
