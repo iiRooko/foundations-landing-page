@@ -94,12 +94,14 @@ button {
 .body2 ul {
     display: flex;
     justify-content: center;
+    gap: 10px;
 }
 
 .body2 li {
     display: flex;
     flex-direction: column;
     align-items: center;
+    gap: 10px;
 }
 
 .body2 h3 {
@@ -109,9 +111,10 @@ button {
 }
 
 .body2 img {
-    max-width: 300px;
+    max-width: 250px;
     min-height: 300px;
     border: 2px solid #3882F6;
+    border-radius: 7px;
 }
 
 .body3 {
