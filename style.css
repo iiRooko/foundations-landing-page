@@ -128,23 +128,27 @@ button {
 }
 
 .body4 {
-    display: flex;
-    justify-content: center;
+    margin: 30px 200px;
+    min-width: 300px;
     color: #F9FAF8;
     background-color: #3882F6;
+    display: flex;
+    justify-content: center;
 }
 
-.body4 p, .body4 div {
-    
+.body4left {
+
 }
 
 .body4 button {
     border: 2px solid #F9FAF8;
+    margin: 3px 10px;
 }
 
 .footer {
     display: flex;
     justify-content: center;
+    margin-bottom: auto;
     background-color: #1F2937;
     color: #F9FAF8;
 }
