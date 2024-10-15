@@ -81,7 +81,7 @@ button {
 }
 
 .body1right img {
-    max-width: 200px;
+    max-width: 300px;
 }
 
 .body2 {
@@ -110,7 +110,7 @@ button {
 .body2 img {
     display: flex;
     align-content: center;
-    max-width: 200px;
+    max-width: 300px;
 }
 
 .body3 {
