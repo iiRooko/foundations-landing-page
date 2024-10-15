@@ -115,6 +115,7 @@ button {
 
 .body3 {
     display: flex;
+    flex-wrap: wrap;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -127,6 +128,7 @@ button {
     font-style: italic;
     font-weight: lighter;
     color: #1F2937;
+    max-width: 650px;
 }
 
 .body3 div {
